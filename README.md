@@ -1,2 +1,2 @@
-# R_Subject_University
-R Scripts
+# R Operation Research University subject
+All the R script done at the university in the Operation Research Subject
